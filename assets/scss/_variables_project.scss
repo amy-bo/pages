@@ -28,3 +28,8 @@ abbr[title]:hover::after {
 abbr[title]:hover {
     position: relative;
 }
+
+// Adding to remove the AMYBO title from the navbar
+.td-navbar .navbar-brand__name {
+    display: none;
+  }
