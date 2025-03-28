@@ -1,6 +1,6 @@
 ---
 title: "electroPioreactor v0.02.md"
-linkTitle: "MEP0_02"
+linkTitle: "electroPioreactor v0.02"
 weight: 800
 description: >-
      v0.02 mixed culture electroPioreactor (MEP0.02)
