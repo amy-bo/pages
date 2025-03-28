@@ -1,7 +1,7 @@
 ---
 title: "Pioflo"
 linkTitle: "Pioflo"
-weight: 35
+weight: 50
 description: >-
      Enabling affordable bioreactors at scale
 ---
