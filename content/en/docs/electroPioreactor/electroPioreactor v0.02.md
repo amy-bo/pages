@@ -15,30 +15,28 @@ description: >-
 
 ### Electrolysis
 
-Either
-1. 1x Platinum plated titanium anode (for MEP0.02Pt - 6mm diameter, 60mm total length, 35mm platinised length)
-Or
-1. 1x Graphite anode (for MEP0.02C - 6mm diameter, 60mm total length)
-And
-2. 1x Crocodile clip
-3. 1x Stainless Steel 60mm M4 bolt
-4. 1x Stainless Steel M4 Locking Nut
-5. 1x Ring Crimp Terminal
-6. 1x [Pioreactor vial cap with hole for 6mm electrode](https://www.printables.com/model/974845-pioreactor-vial-cap-with-hole-for-6mm-electrode)
-* 4x Female Dupont Cables: [Amazon.co.uk](https://amzn.eu/d/fKdnqrx) (also needed for CO<sub>2</sub> sparging)
+1. Either  
+   - 1x Platinum plated titanium anode (for MEP0.02Pt – 6mm diameter, 60mm total length, 35mm platinised length), or  
+   - 1x Graphite anode (for MEP0.02C – 6mm diameter, 60mm total length)  
+1. 1x Crocodile clip
+1. 1x Stainless Steel 60mm M4 bolt
+1. 1x Stainless Steel M4 Locking Nut
+1. 1x Ring Crimp Terminal
+1. 1x [Pioreactor vial cap with hole for 6mm electrode](https://www.printables.com/model/974845-pioreactor-vial-cap-with-hole-for-6mm-electrode)
+1. 4x Female Dupont Cables: [Amazon.co.uk](https://amzn.eu/d/fKdnqrx) (also needed for CO<sub>2</sub> sparging)
 
 ### CO<sub>2</sub> sparging
 
-* 1x Sodastream cylinder: [Amazon.co.uk](https://amzn.eu/d/1dZqKsi) (classic blue NOT quick connect pink)
-* 1x [Sodastream holder for Pioreactor](https://www.printables.com/model/855700-sodastream-holder-for-pioreactor)
-* 1x W21.8-14 to TR21-4 adaptor: [Amazon.co.uk](https://amzn.eu/d/1eZLJ7n) [^1]
-* 1x CO<sub>2</sub> Regulator and Solenoid: [Amazon.co.uk](https://amzn.eu/d/gSnMfxg) [^2]
-* ~ 20cm 4mm PU tubing: [Amazon.co.uk](https://amzn.eu/d/h9DJO5H)
-* 2x Check valves: [Amazon.co.uk](https://amzn.eu/d/giKnew4)
-* 1x 3/16" barb male Luer lock: [Amazon.co.uk](https://amzn.eu/d/83w3N6F)
-* 1/16" barb Luer Locks - 2x Male: [Amazon.co.uk](https://amzn.eu/d/5yACgUp) & 2x Female: [Amazon.co.uk](https://amzn.eu/d/deEBv9w)
-* ~ 20cm 1/16" ID Silicone tubing: [Amazon.co.uk](https://amzn.eu/d/bOQ02Ow)
-* 1x 2.1mm x 5.5mm Male Barrel Plug: [Amazon.co.uk](https://amzn.eu/d/d5QFCxD) - to connect Raspberry Pi to solenoid with:
+1. 1x Sodastream cylinder: [Amazon.co.uk](https://amzn.eu/d/1dZqKsi) (classic blue NOT quick connect pink)
+1. 1x [Sodastream holder for Pioreactor](https://www.printables.com/model/855700-sodastream-holder-for-pioreactor)
+1. 1x W21.8-14 to TR21-4 adaptor: [Amazon.co.uk](https://amzn.eu/d/1eZLJ7n) [^1]
+1. 1x CO<sub>2</sub> Regulator and Solenoid: [Amazon.co.uk](https://amzn.eu/d/gSnMfxg) [^2]
+1. ~ 20cm 4mm PU tubing: [Amazon.co.uk](https://amzn.eu/d/h9DJO5H)
+1. 2x Check valves: [Amazon.co.uk](https://amzn.eu/d/giKnew4)
+1. 1x 3/16" barb male Luer lock: [Amazon.co.uk](https://amzn.eu/d/83w3N6F)
+1. 1/16" barb Luer Locks - 2x Male: [Amazon.co.uk](https://amzn.eu/d/5yACgUp) & 2x Female: [Amazon.co.uk](https://amzn.eu/d/deEBv9w)
+1. ~ 20cm 1/16" ID Silicone tubing: [Amazon.co.uk](https://amzn.eu/d/bOQ02Ow)
+1. 1x 2.1mm x 5.5mm Male Barrel Plug: [Amazon.co.uk](https://amzn.eu/d/d5QFCxD) - to connect Raspberry Pi to solenoid with:
 
 
 ### Continuous Flow
