@@ -31,14 +31,15 @@ And
 
 * 1x Sodastream cylinder: [Amazon.co.uk](https://amzn.eu/d/1dZqKsi) (classic blue NOT quick connect pink)
 * 1x [Sodastream holder for Pioreactor](https://www.printables.com/model/855700-sodastream-holder-for-pioreactor)
-* 1x W21.8-14 to TR21-4 adaptor: [Amazon.co.uk](https://amzn.eu/d/1eZLJ7n) ^[Could be improved, I got this as it is also a 90° bend, but mine is uncomfortably stiff to adjust]
-* 1x CO<sub>2</sub> Regulator and Solenoid: [Amazon.co.uk](https://amzn.eu/d/gSnMfxg) ^[**Harvey Mudd are currently working on a Pinch Valve that should significantly improve this**]
+* 1x W21.8-14 to TR21-4 adaptor: [Amazon.co.uk](https://amzn.eu/d/1eZLJ7n) [^1]
+* 1x CO<sub>2</sub> Regulator and Solenoid: [Amazon.co.uk](https://amzn.eu/d/gSnMfxg) [^2]
 * ~ 20cm 4mm PU tubing: [Amazon.co.uk](https://amzn.eu/d/h9DJO5H)
 * 2x Check valves: [Amazon.co.uk](https://amzn.eu/d/giKnew4)
 * 1x 3/16" barb male Luer lock: [Amazon.co.uk](https://amzn.eu/d/83w3N6F)
 * 1/16" barb Luer Locks - 2x Male: [Amazon.co.uk](https://amzn.eu/d/5yACgUp) & 2x Female: [Amazon.co.uk](https://amzn.eu/d/deEBv9w)
 * ~ 20cm 1/16" ID Silicone tubing: [Amazon.co.uk](https://amzn.eu/d/bOQ02Ow)
 * 1x 2.1mm x 5.5mm Male Barrel Plug: [Amazon.co.uk](https://amzn.eu/d/d5QFCxD) - to connect Raspberry Pi to solenoid with:
+
 
 ### Continuous Flow
 
@@ -72,3 +73,6 @@ And
 1. 1x 150mm Pliers Wrench: [Amazon.co.uk](https://amzn.eu/d/3nkLCuu)
 1. 1x Needle-Nose Pliers: [Amazon.co.uk](https://amzn.eu/d/74U0lou)
 1. 1x PH0 Screwdriver: [Amazon.co.uk](https://amzn.eu/d/houYNco)
+
+[^1]: Could be improved, I got this as it is also a 90° bend, but mine is uncomfortably stiff to adjust
+[^2]: **[Harvey Mudd](https://forum.amybo.org/t/keeping-up-with-hmc-clinic-project/126/32) are currently working on a Pinch Valve that should significantly improve this**
