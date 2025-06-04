@@ -62,7 +62,7 @@ valve has been opened to release the pressure.**
 
 The raw results from the experiment are [available as CSV files on GitHub](https://github.com/AMYBO-org/results/tree/main/Control%20Testing).
 
-![A screenshot of the Pioreactor results](./results.jpg)
+![A screenshot of the Pioreactor results](./results.png)
 
 ## Report
 
