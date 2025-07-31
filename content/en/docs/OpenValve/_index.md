@@ -10,4 +10,4 @@ description: >-
 
 AMYBO's Harvey Mudd Clinic Valve Team have been designing a 3D printed open source pinch valve housing that can be made using readily available & affordable standard solenoid valves.
 
-We'll be posting their designs here soon.  If it's after 7 May and this page still looks like this please contact [Martin](https://amy.bo/Martin-links).
+We're now looking to optimise the pinch valve for use with the [1/16" ID flexible silicone tubing](https://pioreactor.com/collections/accessories-and-parts/products/1-8-od-1-16-id-silicone-tubing) provided with Pioreactors.
