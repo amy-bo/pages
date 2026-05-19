@@ -28,7 +28,7 @@ We need biotechnologists, chefs, coders, creatives, engineers, enthusiasts, envi
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/AMYBO-org" %}}
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/amy-bo" %}}
 All these pages are editable, so please [add more, fix what's wrong, or just get in touch](/docs/contribution-guidelines).
 {{% /blocks/feature %}}
 
